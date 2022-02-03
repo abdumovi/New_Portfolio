@@ -832,6 +832,12 @@ body {
   max-width: 646px;
 }
 
+@media screen and (max-width: 969px) {
+  .about-top__text {
+    max-width: 346px;
+  }
+}
+
 .about-bottom {
   margin-top: 65px;
 }
